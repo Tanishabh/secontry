@@ -15,7 +15,10 @@ class _NameState extends State<Name> {
       body: ListView(
         children: [
           Text("igigig"),
-          Text("fcytd6")
+          Text("fcytd6"),
+          Container(height: 50,
+          width: 400,
+          color: Colors.red,),
         ],
       ),
 
