@@ -22,7 +22,8 @@ class _NameState extends State<Name> {
           Container(),
           Container(
             height: 500,
-          )
+          ),
+          SizedBox()
         ],
       ),
 
