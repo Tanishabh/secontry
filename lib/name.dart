@@ -10,14 +10,15 @@ class _NameState extends State<Name> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("pink",),
-      ),
+      appBar: AppBar(title: Text("pink",),),
+
       body: ListView(
         children: [
           Text("igigig"),
           Text("fcytd6")
         ],
       ),
+
     );
   }
 }
